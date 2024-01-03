@@ -70,8 +70,6 @@
 <div align="center">
 
 ## 🌐 Socials: 
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+Me" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjZXU2bHFmbXliczJnMXk1dmR5M3V5azBndzJ6emo0c2hoa2lyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Programmer" width="150" />
