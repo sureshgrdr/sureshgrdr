@@ -44,14 +44,14 @@
 
   #### Software/Tools
   <div align="center">  
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" />
-    </a>
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Photoshop-ff662a?style=for-the-badge&logo=Adobe%20photoshop&labelColor=20232a&color=31a8ff" alt="Adobe Photoshop" />
     </a>
     <a href="https://cloud.google.com/" target="_blank">
       <img src="https://img.shields.io/badge/Illustrator-ff662a?style=for-the-badge&logo=Adobe%20Illustrator&labelColor=20232a&color=ff9a00" alt="Adobe Illustrator" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" />
     </a>
     
   </div>
