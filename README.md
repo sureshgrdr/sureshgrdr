@@ -12,7 +12,8 @@ Languages
 
   <div align="center">  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"  />
+        <img  src="https://img.shields.io/badge/HTML-ff662a?style=for-the-badge&logo=html5&labelColor=20232a&color=ff662a
+" alt="HTML"  />
       </a> 
       <a href="https://react.dev/" target="_blank">
         <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"  />
