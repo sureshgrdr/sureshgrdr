@@ -24,42 +24,24 @@
 
 <td valign="top" width="33%">
   
-#### Back End
+#### Frameworks / Libraries
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+            <img src="https://img.shields.io/badge/React-ff662a?style=for-the-badge&logo=React&labelColor=20232a&color=61dafb" alt="React" />
         </a>  
         <a href="https://spring.io/" target="_blank"> 
-          <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+          <img src="https://img.shields.io/badge/BootStrap-ff662a?style=for-the-badge&logo=Bootstrap&labelColor=20232a&color=6e4ca2" alt="BootStrap" />
         </a>
         <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+            <img src="https://img.shields.io/badge/SCSS-ff662a?style=for-the-badge&logo=sass&labelColor=20232a&color=cc6699" alt="SCSS" />
         </a>
-        <a href="https://www.python.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        </a> 
-        <a href="https://isocpp.org/" target="_blank">
-            <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"  />
-        </a> 
-       <a href="https://www.iso.org/standard/74528.html" target="_blank">
-            <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"  />
-        </a> 
-        <a href="https://www.php.net/" target="_blank">
-            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        </a>
-        <a href="https://nodejs.org/en" target="_blank">
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-        </a> 
-        <a href="https://www.postgresql.org/" target="_blank">
-            <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-        </a> 
   </div>
 </td>  
 
 <td valign="top" width="33%">
  
 
-  #### Tools & others
+  #### Software/Tools
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
