@@ -1,6 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sureshgrdr&theme=gotham&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
