@@ -67,8 +67,7 @@
 ## 🌐 Socials: 
 
 <p align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=inter&pause=1000&random=false&width=435&lines=Contact+me)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Contact+me" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
