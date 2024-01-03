@@ -67,7 +67,6 @@
 ## 🌐 Socials: 
 
 <div align="center">
-  
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Contact+me" alt="Typing SVG" /></a>
   
  <a href="https://www.docker.com/" target="_blank">
@@ -75,6 +74,7 @@
     </a>
   
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sureshgrdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fantasy.fusion.artistry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshgrdr) 
+
 [![](https://visitcount.itsvg.in/api?id=sureshgrdr&icon=4&color=1)](https://visitcount.itsvg.in)
 </p>
 
