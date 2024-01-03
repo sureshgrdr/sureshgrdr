@@ -55,7 +55,8 @@
   </div>
 </td></tr></table> 
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
