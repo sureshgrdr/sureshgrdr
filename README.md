@@ -2,9 +2,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 <img src="https://media.giphy.com/media/x4yndp5BYEe7jWfMQh/giphy.gif" width="29px" height="29px">
 
-
 ## 🏆 GitHub Trophies
-[![GitHub contributions](https://img.shields.io/github/contributions/sureshgrdr/sureshgrdr)](https://github.com/sureshgrdr)
+![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 
 # 💻 Tech Stack:
