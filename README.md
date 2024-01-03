@@ -20,15 +20,7 @@
       <a href="https://tailwindcss.com/" target="_blank">
         <img  src="https://img.shields.io/badge/JavaScript-ff662a?style=for-the-badge&logo=Javascript&labelColor=20232a&color=f7df1e" alt="JavaScript"  />
       </a> 
-      <a href="https://www.thymeleaf.org/" target="_blank">
-         <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
-      </a> 
-      <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
-         <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-      </a> 
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </a> 
+     <li> <img  src="https://img.shields.io/badge/JavaScript-ff662a?style=for-the-badge&logo=Javascript&labelColor=20232a&color=f7df1e" alt="JavaScript"  /></li>
   </div>
 </td>
 
