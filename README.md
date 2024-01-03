@@ -59,10 +59,11 @@
 
 ### 📊 GitHub Stats:
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ## 🌐 Socials: 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+Me" alt="Typing SVG" /></a>
 
