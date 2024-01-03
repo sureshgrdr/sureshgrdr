@@ -1,11 +1,12 @@
 # Hi dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
+<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
+<br/>
 
-### 🛠️ Skills
+## 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
   
@@ -55,8 +56,9 @@
     
   </div>
 </td></tr></table> 
+<br/>
 
-### 📊 GitHub Stats:
+## 📈 GitHub Stats:
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
