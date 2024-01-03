@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />, I'm Suresh</h1>
 <h3 align="center">Web Developer<h3>
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0NHkyd2c3dXBibG9tb2JrY2p2cmtkY211MGZ1Z204eWtpcXlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" alt="banner" width="100" />
-</p>
+
 <p align='center'>
 
 ## 🏆 GitHub Trophies
