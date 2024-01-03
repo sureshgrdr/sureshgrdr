@@ -15,7 +15,7 @@ Languages
         <img  src="https://img.shields.io/badge/HTML-ff662a?style=for-the-badge&logo=html5&labelColor=20232a&color=ff662a" alt="HTML"  />
       </a> 
       <a href="https://react.dev/" target="_blank">
-        <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"  />
+        <img  src="https://img.shields.io/badge/CSS-ff662a?style=for-the-badge&logo=CSS3&logoColor=2862e9&labelColor=20232a&color=2862e9" alt="React"  />
       </a> 
       <a href="https://tailwindcss.com/" target="_blank">
         <img  src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"  />
