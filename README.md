@@ -44,26 +44,14 @@
   #### Software/Tools
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Photoshop-ff662a?style=for-the-badge&logo=Adobe%20photoshop&labelColor=20232a&color=31a8ff" alt="Adobe Photoshop" />
     </a>
     <a href="https://cloud.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GoogleCloud" />
+      <img src="https://img.shields.io/badge/Illustrator-ff662a?style=for-the-badge&logo=Adobe%20Illustrator&labelColor=20232a&color=ff9a00" alt="Adobe Illustrator" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" />
     </a>
-    <a href="https://www.postman.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="PostMan" />
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </a>
-    <a href="https://neovim.io/" target="_blank">
-      <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
-    </a> 
   </div>
 </td></tr></table> 
 
