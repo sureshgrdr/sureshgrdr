@@ -8,8 +8,8 @@
 ### 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
+<h2>Languages</h2>
 
-#### Front-End
   <div align="center">  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"  />
@@ -33,7 +33,6 @@
 </td>
 
 <td valign="top" width="33%">
-  #### Back-End 
   <h2>Back End</h2>
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
