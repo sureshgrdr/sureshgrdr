@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />, I'm Suresh</h1>
 <h3 align="center">Web Developer<h3>
-
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY0NHkyd2c3dXBibG9tb2JrY2p2cmtkY211MGZ1Z204eWtpcXlsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0lfqHNZwWM1hOvJ9CX/giphy.gif" alt="banner" width="100" />
+</p>
 <p align='center'>
 
 ## 🏆 GitHub Trophies
@@ -61,10 +63,9 @@
 ## 🌐 Socials:
 
 <div align="center">
-  
 
-<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" /></br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjZXU2bHFmbXliczJnMXk1dmR5M3V5azBndzJ6emo0c2hoa2lyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Programmer" width="200"/>
+<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" /><br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjZXU2bHFmbXliczJnMXk1dmR5M3V5azBndzJ6emo0c2hoa2lyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Programmer" width="200"/>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sureshgrdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fantasy.fusion.artistry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshgrdr)
 
