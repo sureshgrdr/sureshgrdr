@@ -26,15 +26,16 @@
   
 #### Frameworks / Libraries
   <div align="center">  
+        <a href="https://www.mysql.com/" target="_blank">
+            <img src="https://img.shields.io/badge/SCSS-ff662a?style=for-the-badge&logo=sass&labelColor=20232a&color=cc6699" alt="SCSS" />
+        </a>
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/React-ff662a?style=for-the-badge&logo=React&labelColor=20232a&color=61dafb" alt="React" />
         </a>  
         <a href="https://spring.io/" target="_blank"> 
           <img src="https://img.shields.io/badge/BootStrap-ff662a?style=for-the-badge&logo=Bootstrap&labelColor=20232a&color=6e4ca2" alt="BootStrap" />
         </a>
-        <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://img.shields.io/badge/SCSS-ff662a?style=for-the-badge&logo=sass&labelColor=20232a&color=cc6699" alt="SCSS" />
-        </a>
+        
   </div>
 </td>  
 
