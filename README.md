@@ -30,9 +30,8 @@
         <img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       </a> 
   </div>
-
-
 </td>
+
 <td valign="top" width="33%">
     #### Back-End and +   
   <div align="center">  
@@ -64,8 +63,8 @@
             <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
         </a> 
   </div>
-
 </td>  
+
 <td valign="top" width="33%">
  
 
