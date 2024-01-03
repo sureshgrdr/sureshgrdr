@@ -65,8 +65,8 @@
 </div>
 
 ## 🌐 Socials: 
-
 <div align="center">
+  
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Contact+me" alt="Typing SVG" /></a>
   
  <a href="https://www.docker.com/" target="_blank">
