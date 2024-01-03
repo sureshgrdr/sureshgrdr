@@ -64,9 +64,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-<div align="center">
-
 ## 🌐 Socials: 
+
+<div align="center">
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+Me" alt="Typing SVG" />
 </a>
