@@ -39,8 +39,9 @@
 #### Software/Tools
   <div align="center">  
       <img src="https://img.shields.io/badge/Photoshop-ff662a?style=for-the-badge&logo=Adobe%20photoshop&labelColor=20232a&color=31a8ff" alt="Adobe Photoshop" />
+      <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" />  
       <img src="https://img.shields.io/badge/Illustrator-ff662a?style=for-the-badge&logo=Adobe%20Illustrator&labelColor=20232a&color=ff9a00" alt="Adobe Illustrator" />
-      <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" />    
+        
   </div>
 </td></tr></table> 
 <br/>
@@ -51,7 +52,7 @@
   
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
