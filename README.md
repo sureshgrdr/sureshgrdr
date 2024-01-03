@@ -17,10 +17,8 @@
       <a href="https://react.dev/" target="_blank">
         <img  src="https://img.shields.io/badge/CSS-ff662a?style=for-the-badge&logo=CSS3&logoColor=2862e9&labelColor=20232a&color=2862e9" alt="CSS3"  />
       </a> 
-      <a href="https://tailwindcss.com/" target="_blank">
         <img  src="https://img.shields.io/badge/JavaScript-ff662a?style=for-the-badge&logo=Javascript&labelColor=20232a&color=f7df1e" alt="JavaScript"  />
-      </a> 
-     <li> <img  src="https://img.shields.io/badge/JavaScript-ff662a?style=for-the-badge&logo=Javascript&labelColor=20232a&color=f7df1e" alt="JavaScript"  /></li>
+
   </div>
 </td>
 
