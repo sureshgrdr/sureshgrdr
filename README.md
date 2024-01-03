@@ -41,8 +41,7 @@
 
 <td valign="top" width="33%">
  
-
-  #### Software/Tools
+#### Software/Tools
   <div align="center">  
     <a href="https://www.linux.org/" target="_blank">
       <img src="https://img.shields.io/badge/Photoshop-ff662a?style=for-the-badge&logo=Adobe%20photoshop&labelColor=20232a&color=31a8ff" alt="Adobe Photoshop" />
@@ -58,9 +57,7 @@
 </td></tr></table> 
 
 ### 📊 GitHub Stats:
-
 <div align="center">
-
   
 ![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=true)<br/>
@@ -70,9 +67,9 @@
 <div align="center">
 
 ## 🌐 Socials: 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+Me" alt="Typing SVG" />
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Contact+Me" alt="Typing SVG" /></a>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjZXU2bHFmbXliczJnMXk1dmR5M3V5azBndzJ6emo0c2hoa2lyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Programmer" width="150" />
+<a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNjZXU2bHFmbXliczJnMXk1dmR5M3V5azBndzJ6emo0c2hoa2lyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fwbzI2kV3Qrlpkh59e/giphy.gif" alt="Programmer" width="150" /></a>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sureshgrdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fantasy.fusion.artistry) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sureshgrdr) 
 
