@@ -8,7 +8,7 @@
 ### 🛠️ Skills
 
 <table><tr><td valign="top" width="33%">
-<h2>Languages</h2>
+Languages
 
   <div align="center">  
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -33,7 +33,7 @@
 </td>
 
 <td valign="top" width="33%">
-  <h2>Back End</h2>
+ Back End
   <div align="center">  
         <a href="https://www.java.com/" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
