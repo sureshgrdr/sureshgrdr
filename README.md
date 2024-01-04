@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />, I'm Suresh</h1>
-<h3 align="center">Web Developer </h3>
 
 <table align="center"><tr>
 <td valign="center" >
@@ -11,22 +10,11 @@
 ## About Me
 
 - **Web Developer** and a Graphic Designer.
-- 🌱 I'm currently learning SQL
+- 🌱 I'm currently learning SQL.
 
 </td>
 
 </tr></table>
-</br>
-
-<p align='center'>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-</p>
-
-<br/>
 
 ## 🛠️ Skills
 
@@ -74,6 +62,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+<br/>
+
+<p align='center'>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</p>
+
 <br/>
 
 ## 🌐 Socials:
