@@ -94,7 +94,7 @@
 </td>
 
 <td valign="center" >
-<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&color=8ea852&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&color=df6d74&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" />
 <br/><br/>
 
 <div align="center">
