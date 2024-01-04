@@ -11,7 +11,7 @@
 
 - 💻 **Web Developer** and a Graphic Designer.
 - 🌱 I'm currently learning SQL.
--
+- 💃 Random 3d modelling <a href="https://instagram.com/fantasy.fusion.artistry">🔗</a>
 
 </td>
 
