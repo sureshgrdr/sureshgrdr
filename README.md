@@ -7,10 +7,11 @@
 </td>
 <td valign="top" >
 
-## About Me
+## About me
 
-- **Web Developer** and a Graphic Designer.
+- 💻 **Web Developer** and a Graphic Designer.
 - 🌱 I'm currently learning SQL.
+-
 
 </td>
 
@@ -48,8 +49,7 @@
       <img src="https://img.shields.io/badge/Illustrator-ff662a?style=for-the-badge&logo=Adobe%20Illustrator&labelColor=20232a&color=ff9a00" alt="Adobe Illustrator" />
         
   </div>
-</td></tr></table> 
-<br/>
+</td></tr></table>
 
 ## 📈 GitHub Stats:
 
