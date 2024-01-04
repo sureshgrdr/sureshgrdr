@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px" />, I'm Suresh</h1>
 <h3 align="center">Web Developer </h3>
 
-<table><tr>
-<td>
+<table align="center"><tr>
+<td valign="center" >
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhhbGgzMG9jNzgxMzIzcXFjcHZ1ZWk5cWh3ZTNiNHRrbzl2bWNsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200px" />
 
 </td>
-<td valign="top">
+<td valign="top" >
 
 ## About Me
 
@@ -14,6 +14,7 @@
 - 🌱 I'm currently learning SQL
 
 </td>
+
 </tr></table>
 </br>
 
