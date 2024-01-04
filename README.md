@@ -56,7 +56,7 @@
 
 <p align='center'>
 
-![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sureshgrdr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </p>
 
