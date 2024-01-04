@@ -68,7 +68,7 @@
 <table align="center"><tr>
 <td valign="center" >
 
-![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 </td>
 <td valign="center" >
