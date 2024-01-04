@@ -68,17 +68,17 @@
 <table align="center"><tr>
 <td valign="center" >
 
-![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=sureshgrdr&theme=onedark&hide_border=true&include_all_commits=true&count_private=true)
 
 </td>
 <td valign="center" >
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=gotham&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sureshgrdr&theme=onedark&hide_border=true&bg_color=ffffff)
 
 </td>
 </tr></table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sureshgrdr&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -94,7 +94,7 @@
 </td>
 
 <td valign="center" >
-<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=inter&size=22&pause=1000&color=df6d74&center=true&vCenter=true&random=false&width=440&height=45&lines=Connect+with+me" alt="Typing SVG" />
 <br/><br/>
 
 <div align="center">
