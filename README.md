@@ -44,9 +44,9 @@
  
 #### Software/Tools
   <div align="center">  
-      <img src="https://img.shields.io/badge/VS%20Code-20232a?style=for-the-badge&logo=visual%20studio%20code&labelColor=20232a&color=ffffff" alt="VS Code" />
+      <img src="https://img.shields.io/badge/VS%20Code-20232a?style=for-the-badge&logo=visual%20studio%20code&labelColor=20232a&color=f0f0f0" alt="VS Code" />
       <img src="https://img.shields.io/badge/Git-20232a?style=for-the-badge&logo=Git&labelColor=20232a&color=f05032" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=GitHub&labelColor=20232a&color=ffffff" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-20232a?style=for-the-badge&logo=GitHub&labelColor=20232a&color=f0f0f0" alt="GitHub" />
       <img src="https://img.shields.io/badge/Photoshop-ff662a?style=for-the-badge&logo=Adobe%20photoshop&labelColor=20232a&color=31a8ff" alt="Adobe Photoshop" /> 
       <img src="https://img.shields.io/badge/Illustrator-ff662a?style=for-the-badge&logo=Adobe%20Illustrator&labelColor=20232a&color=ff9a00" alt="Adobe Illustrator" />
       <img src="https://img.shields.io/badge/Blender-ff662a?style=for-the-badge&logo=Blender&labelColor=20232a&color=e87d0d" alt="Blender" /> 
