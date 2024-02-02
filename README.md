@@ -11,7 +11,7 @@
 
 - 💻 **Web Developer** and a Graphic Designer.
 - 🌱 I'm currently learning SQL.
-- 💃 Random 3d modelling <a href="https://instagram.com/fantasy.fusion.artistry">🔗</a>
+- 💃 Random 3d modeller <a href="https://instagram.com/fantasy.fusion.artistry">🔗</a>
 
 </td>
 
@@ -34,9 +34,10 @@
   
 #### Frameworks / Libraries
   <div align="center">  
-            <img src="https://img.shields.io/badge/React-ff662a?style=for-the-badge&logo=React&labelColor=20232a&color=61dafb" alt="React" />
+           <img src="https://img.shields.io/badge/React-ff662a?style=for-the-badge&logo=React&labelColor=20232a&color=61dafb" alt="React" />
           <img src="https://img.shields.io/badge/BootStrap-ff662a?style=for-the-badge&logo=Bootstrap&labelColor=20232a&color=6e4ca2" alt="BootStrap" />
-            <img src="https://img.shields.io/badge/SCSS-ff662a?style=for-the-badge&logo=sass&labelColor=20232a&color=cc6699" alt="SCSS" />        
+          <img src="https://img.shields.io/badge/SCSS-ff662a?style=for-the-badge&logo=sass&labelColor=20232a&color=cc6699" alt="SCSS" />    
+          <img src="https://img.shields.io/badge/TailwindCSS-20232a?style=for-the-badge&logo=TailwindCSS&labelColor=20232a&color=38bdf8" alt="TailWindCSS" /> 
   </div>
 </td>
 
