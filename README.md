@@ -10,7 +10,7 @@
 ## About me
 
 - 💻 **Web Developer** and a Graphic Designer.
-- 🌱 I'm currently learning SQL.
+- 🌱 I'm currently learning JAVA.
 - 💃 Random 3d modeller <a href="https://instagram.com/fantasy.fusion.artistry">🔗</a>
 
 </td>
